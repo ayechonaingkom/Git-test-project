@@ -1,0 +1,23 @@
+# Ignore all files and folders in OneDrive
+# Ignore all files and folders in OneDrive
+Desktop/
+Documents/
+Pictures/
+Personal Vault.lnk
+*.lnk
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.zip
+*.db
+*.docx
+*.ini
+*.pyc
+__pycache__/
+*.DS_Store
+.849C9593-D756-4E56-8D6E-42412F2A707B
+tea-drinking-1-1024x685.webp
+two-friends-drinking-tea-together-in-a-loft-ALBF00645.jpg
